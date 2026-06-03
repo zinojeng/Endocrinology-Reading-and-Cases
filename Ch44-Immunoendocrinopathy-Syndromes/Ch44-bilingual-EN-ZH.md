@@ -2,7 +2,7 @@
 
 > 本檔為原始 LlamaParse 解析全文的**中英對照版**：保留完整英文原文，每個小片段後緊接繁體中文翻譯（`> 🇹🇼 中譯：`），方便 fellow 一邊讀原文一邊對照。
 >
-> 原始純英文全文見：[`Ch44-raw-LlamaParse.md`](Ch44-raw-LlamaParse.md)。文末 References（參考文獻）依慣例不翻譯。
+> 原始純英文全文見：[`_source/Ch44-raw-LlamaParse.md`](_source/Ch44-raw-LlamaParse.md)。文末 References（參考文獻）依慣例不翻譯。
 
 ---
 
