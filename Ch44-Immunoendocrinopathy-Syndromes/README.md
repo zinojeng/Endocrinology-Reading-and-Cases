@@ -19,7 +19,7 @@
 | 03 | [單基因型免疫內分泌症候群](03-Monogenic-Immunoendocrine-Syndromes.md) | IPEX、CTLA4/LRBA/STAT3、Wolfram、Omenn | FOXP3/Treg、DIDMOAD |
 
 > 原始解析全文（含 References）：[`_source/Ch44-raw-LlamaParse.md`](_source/Ch44-raw-LlamaParse.md)
-> 🇹🇼🇬🇧 **中英對照版**（原文 + 逐段中譯，適合讀原文）：[`Ch44-bilingual-EN-ZH.md`](Ch44-bilingual-EN-ZH.md)
+> 🇹🇼🇬🇧 **中英對照版**（原文 + 逐段中譯，適合讀原文）：[`_source/Ch44-bilingual-EN-ZH.md`](_source/Ch44-bilingual-EN-ZH.md)
 
 ---
 

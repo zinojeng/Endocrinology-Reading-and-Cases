@@ -20,7 +20,7 @@
 | 06 | [抗增生與全身性治療](06-Antiproliferative-and-Systemic-Therapy.md) | SSA、PRRT、everolimus、sunitinib、化療 | 177Lu-DOTATATE、CAPTEM、NET vs NEC 選藥 |
 
 > 原始解析全文（含 References）：[`_source/Ch43-raw-LlamaParse.md`](_source/Ch43-raw-LlamaParse.md)
-> 🇹🇼🇬🇧 **中英對照版**（原文 + 逐段中譯，適合讀原文）：[`Ch43-bilingual-EN-ZH.md`](Ch43-bilingual-EN-ZH.md)
+> 🇹🇼🇬🇧 **中英對照版**（原文 + 逐段中譯，適合讀原文）：[`_source/Ch43-bilingual-EN-ZH.md`](_source/Ch43-bilingual-EN-ZH.md)
 
 ---
 
