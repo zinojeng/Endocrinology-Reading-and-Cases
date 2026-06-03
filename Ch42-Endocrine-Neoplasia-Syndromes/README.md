@@ -21,6 +21,7 @@
 | 07 | [MEON（二）+ 總結](07-MEON-Carney-Cowden-McCuneAlbright.md) | Carney complex、Cowden、McCune-Albright、Future Directions | CNC 診斷標準、MAS 三聯徵、Cowden (PTEN) 腫瘤譜 |
 
 > 原始解析全文（含 References）：[`_source/Ch42-raw-LlamaParse.md`](_source/Ch42-raw-LlamaParse.md)
+> 🇹🇼🇬🇧 **中英對照版**（原文 + 逐段中譯，適合讀原文）：[`_source/Ch42-bilingual-EN-ZH.md`](_source/Ch42-bilingual-EN-ZH.md)
 
 ---
 
