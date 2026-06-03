@@ -9,6 +9,8 @@
 | 章 | 主題 | 連結 |
 |----|------|------|
 | Ch.42 | Endocrine Neoplasia Syndromes（MEN1–5、MEON） | [Ch42-Endocrine-Neoplasia-Syndromes/](Ch42-Endocrine-Neoplasia-Syndromes/) |
+| Ch.43 | Neuroendocrine Tumors and Disorders（NEN/NET/NEC） | [Ch43-Neuroendocrine-Tumors-and-Disorders/](Ch43-Neuroendocrine-Tumors-and-Disorders/) |
+| Ch.44 | The Immunoendocrinopathy Syndromes（APS-I/II、IPEX…） | [Ch44-Immunoendocrinopathy-Syndromes/](Ch44-Immunoendocrinopathy-Syndromes/) |
 
 ---
 
