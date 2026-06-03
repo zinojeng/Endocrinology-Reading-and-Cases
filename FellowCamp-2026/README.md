@@ -24,23 +24,21 @@
 
 ## 📚 各場次摘要（topics/）
 
-> 標 🖼️ 者為**投影片解析**整理（資料較完整、含 case 數據）；標 🎙️ 者目前為**錄音重點**整理（投影片待補）。
+> 全部 9 個場次摘要皆由 **LlamaParse 投影片解析**整理而成（資料完整、含 case 數據與圖表）。
 
-| 檔案 | 主題 | 講者 | 來源 |
-|------|------|------|------|
-| [03 · 糖尿病與肥胖重要臨床試驗](topics/03-糖尿病與肥胖重要臨床試驗.md) | CVOT / 減重試驗 endpoint 整理 | 范綱志醫師 | 🖼️ |
-| [04 · 內分泌動態試驗](topics/04-內分泌動態試驗.md) | 刺激／抑制試驗判讀 | 陳思綺醫師 | 🖼️ |
-| [05 · 糖尿病骨骼脆弱與 Denosumab](topics/05-糖尿病骨骼脆弱與Denosumab.md) | 糖尿病骨折風險與抗骨鬆策略 | 黃兆山醫師 / Amgen | 🎙️ |
-| [06 · 腦垂體](topics/06-腦垂體.md) | Pituitary 功能異常與腫瘤 | 林慶齡醫師 | 🖼️ |
-| [07 · 甲狀腺](topics/07-甲狀腺.md) | 甲亢/甲低/結節/癌/孕期 | 黃君睿醫師 | 🎙️ |
-| [08 · 副甲狀腺](topics/08-副甲狀腺.md) | 鈣磷 PTH 代謝 | 蔡克嵩醫師 | 🎙️ |
-| [09 · 腎上腺](topics/09-腎上腺.md) | PA / incidentaloma / MACS / Cushing / PPGL / CAH（case-based） | 吳婉禎醫師 | 🖼️ |
-| [10 · 胰腺—非典型糖尿病與低血糖](topics/10-胰腺-非典型糖尿病與低血糖.md) | insulinoma/NIPHS、LADA/fulminant/KPD/ICI-DM（case-based） | 杜業豐醫師 | 🖼️ |
-| [11 · 性腺](topics/11-性腺.md) | 男女性腺、PCOS、性發育 | — | 🎙️ |
+| 檔案 | 主題 | 講者 |
+|------|------|------|
+| [03 · 糖尿病與肥胖重要臨床試驗](topics/03-糖尿病與肥胖重要臨床試驗.md) | CVOT / 減重試驗 endpoint 整理 | 范綱志醫師 |
+| [04 · 內分泌動態試驗](topics/04-內分泌動態試驗.md) | 刺激／抑制試驗判讀 | 陳思綺醫師 |
+| [05 · 糖尿病骨骼脆弱與 Denosumab](topics/05-糖尿病骨骼脆弱與Denosumab.md) | 糖尿病骨折風險與抗骨鬆策略 | 黃兆山醫師 / Amgen |
+| [06 · 腦垂體](topics/06-腦垂體.md) | Pituitary 功能異常與腫瘤 | 林慶齡醫師 |
+| [07 · 甲狀腺—孕期甲狀腺疾病](topics/07-甲狀腺-孕期甲狀腺疾病.md) | 孕期甲亢/甲低、PTU vs MMI、trimester TSH | 黃君睿醫師 |
+| [08 · 副甲狀腺](topics/08-副甲狀腺.md) | PHPT / FHH / 鈣磷 PTH 判讀 / 手術適應症 | 蔡克嵩醫師 |
+| [09 · 腎上腺](topics/09-腎上腺.md) | PA / incidentaloma / MACS / Cushing / PPGL / CAH（case-based） | 吳婉禎醫師 |
+| [10 · 胰腺—非典型糖尿病與低血糖](topics/10-胰腺-非典型糖尿病與低血糖.md) | insulinoma/NIPHS、LADA/fulminant/KPD/ICI-DM（case-based） | 杜業豐醫師 |
+| [11 · 性腺—生殖內分泌](topics/11-性腺-生殖內分泌.md) | 女性 HPG axis、PCOS、閉經/無排卵、menopause | 王舜禾醫師 |
 
 > 🖼️ 投影片解析原檔放在 [`topics/_slides-parsed/`](topics/_slides-parsed/)。
->
-> ⏳ **待補（投影片摘要）**：副甲狀腺（蔡克嵩）、甲狀腺孕期（黃君睿）、糖尿病骨骼（黃兆山）、王舜禾場次 —— 這 4 份投影片因 LlamaParse 額度用罄尚未解析，待額度補充後再升級為投影片版。
 
 ---
 
