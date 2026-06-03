@@ -2,7 +2,7 @@
 
 > **115 年度內分泌新陳代謝科專科醫師訓練課程（FellowCamp 2026）**
 > 課程來源：[內分泌暨糖尿病學會 E-learning](https://www.endo-dm.org.tw/endo/events/Elearning.asp?docid=129)
-> 適用對象：**2026 FellowCamp 輔導員／領導員**，以及準備專科醫師考試的 fellow。
+> 適用對象：**2026 FellowCamp**，準備專科醫師考試的 fellow。
 
 本資料夾把 FellowCamp 各場次的**投影片**重新整理為條列式、好記憶的考試重點：重點以**粗體**與 <u>底線</u> 標示，附**記憶法／比較表**，並特別用 ⚠️ 標出講者明示的「會考／秒殺／易混」考點。
 
