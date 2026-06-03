@@ -4,6 +4,24 @@
 
 每個章節獨立成一個資料夾。
 
+## ⬇️ Clone 前請先安裝 Git LFS
+
+本 repo 的大型投影片 PDF（FellowCamp 的糖尿病 64MB、內分泌 34MB）以 **[Git LFS](https://git-lfs.github.com/)** 儲存。**未安裝 git-lfs 直接 clone，PDF 會變成幾十 bytes 的指標檔（pointer），無法開啟。**
+
+```bash
+# 1. 安裝（macOS）
+brew install git-lfs        # Windows: winget install GitHub.GitLFS ; Linux: apt install git-lfs
+git lfs install             # 每台電腦設定一次即可
+
+# 2. clone（會自動下載 LFS 檔案）
+git clone https://github.com/zinojeng/Williams-Textbook-of-Endocrinology.git
+
+# 若先前已 clone 才裝 LFS，補抓實際檔案：
+git lfs pull
+```
+
+> 一般 Markdown 筆記不受影響；只有 `*.pdf` 走 LFS。`.gitattributes` 已設定，之後新增的 PDF 會自動納入 LFS。
+
 ## 🏕️ FellowCamp 2026（專科考試準備）
 
 > [**FellowCamp-2026/**](FellowCamp-2026/) — 115 年度內分泌新陳代謝科專科醫師訓練課程重點整理（給 2026 輔導員與考生）。含**糖尿病／內分泌「如何準備專科考試」兩科深度重點**（逐字稿＋投影片）、準讀版策略總綱，及其餘 8 場次（臨床試驗、動態試驗、骨骼、腦垂體、甲狀腺、副甲狀腺、腎上腺、性腺）摘要。

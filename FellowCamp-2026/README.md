@@ -19,6 +19,8 @@
 | 📗 [02 · 內分泌 專科考試重點](exam-prep/02-內分泌-專科考試重點.md) | 各腺體高頻考點、動態試驗、ATA 2025 新版、易混陷阱 | 洪紹恩醫師 |
 
 > 原始投影片 PDF 與解析、逐字稿放在 [`exam-prep/_source/`](exam-prep/_source/)（**僅這兩科保留原始 PDF**）。
+>
+> ⚠️ 這兩個 PDF 以 **Git LFS** 儲存，clone 前請先 `brew install git-lfs && git lfs install`（詳見 [repo 根目錄 README](../README.md#-clone-前請先安裝-git-lfs)），否則 PDF 會是無法開啟的指標檔。
 
 ---
 
