@@ -18,26 +18,29 @@
 | 📘 [01 · 糖尿病 專科考試重點](exam-prep/01-糖尿病-專科考試重點.md) | 生理/分泌、阻抗、單基因 DM、八重奏、GDM、trials、用藥 | 陳昱勳醫師 |
 | 📗 [02 · 內分泌 專科考試重點](exam-prep/02-內分泌-專科考試重點.md) | 各腺體高頻考點、動態試驗、ATA 2025 新版、易混陷阱 | 洪紹恩醫師 |
 
-> 原始投影片 PDF 與解析、逐字稿放在 [`exam-prep/_source/`](exam-prep/_source/)（**僅這兩科保留原始 PDF**）。
->
-> ⚠️ 這兩個 PDF 以 **Git LFS** 儲存，clone 前請先 `brew install git-lfs && git lfs install`（詳見 [repo 根目錄 README](../README.md#-clone-前請先安裝-git-lfs)），否則 PDF 會是無法開啟的指標檔。
+> 原始投影片 PDF 與解析放在 [`exam-prep/_source/`](exam-prep/_source/)（**僅這兩科保留原始 PDF**）。
 
 ---
 
-## 📚 其餘場次摘要（topics/）
+## 📚 各場次摘要（topics/）
 
-| 檔案 | 主題 | 講者 |
-|------|------|------|
-| [03 · 糖尿病與肥胖重要臨床試驗](topics/03-糖尿病與肥胖重要臨床試驗.md) | CVOT / 減重試驗 endpoint 整理 | 范綱志醫師 |
-| [04 · 內分泌動態試驗](topics/04-內分泌動態試驗.md) | 刺激／抑制試驗判讀 | — |
-| [05 · 糖尿病骨骼脆弱與 Denosumab](topics/05-糖尿病骨骼脆弱與Denosumab.md) | 糖尿病骨折風險與抗骨鬆策略 | 黃兆山醫師 / Amgen |
-| [06 · 腦垂體](topics/06-腦垂體.md) | Pituitary 功能異常與腫瘤 | 林慶齡醫師 |
-| [07 · 甲狀腺](topics/07-甲狀腺.md) | 甲亢/甲低/結節/癌/孕期 | — |
-| [08 · 副甲狀腺](topics/08-副甲狀腺.md) | 鈣磷 PTH 代謝 | 蔡克嵩醫師 |
-| [09 · 腎上腺](topics/09-腎上腺.md) | Cushing/PA/Pheo/AI/CAH | 吳婉禎醫師 |
-| [11 · 性腺](topics/11-性腺.md) | 男女性腺、PCOS、性發育 | — |
+> 標 🖼️ 者為**投影片解析**整理（資料較完整、含 case 數據）；標 🎙️ 者目前為**錄音重點**整理（投影片待補）。
 
-> 各場次原始逐字稿放在 [`topics/_transcripts/`](topics/_transcripts/)。其餘場次依需求**未保留原始 PDF**（僅這兩科考試準備保留 PDF）。
+| 檔案 | 主題 | 講者 | 來源 |
+|------|------|------|------|
+| [03 · 糖尿病與肥胖重要臨床試驗](topics/03-糖尿病與肥胖重要臨床試驗.md) | CVOT / 減重試驗 endpoint 整理 | 范綱志醫師 | 🖼️ |
+| [04 · 內分泌動態試驗](topics/04-內分泌動態試驗.md) | 刺激／抑制試驗判讀 | 陳思綺醫師 | 🖼️ |
+| [05 · 糖尿病骨骼脆弱與 Denosumab](topics/05-糖尿病骨骼脆弱與Denosumab.md) | 糖尿病骨折風險與抗骨鬆策略 | 黃兆山醫師 / Amgen | 🎙️ |
+| [06 · 腦垂體](topics/06-腦垂體.md) | Pituitary 功能異常與腫瘤 | 林慶齡醫師 | 🖼️ |
+| [07 · 甲狀腺](topics/07-甲狀腺.md) | 甲亢/甲低/結節/癌/孕期 | 黃君睿醫師 | 🎙️ |
+| [08 · 副甲狀腺](topics/08-副甲狀腺.md) | 鈣磷 PTH 代謝 | 蔡克嵩醫師 | 🎙️ |
+| [09 · 腎上腺](topics/09-腎上腺.md) | PA / incidentaloma / MACS / Cushing / PPGL / CAH（case-based） | 吳婉禎醫師 | 🖼️ |
+| [10 · 胰腺—非典型糖尿病與低血糖](topics/10-胰腺-非典型糖尿病與低血糖.md) | insulinoma/NIPHS、LADA/fulminant/KPD/ICI-DM（case-based） | 杜業豐醫師 | 🖼️ |
+| [11 · 性腺](topics/11-性腺.md) | 男女性腺、PCOS、性發育 | — | 🎙️ |
+
+> 🖼️ 投影片解析原檔放在 [`topics/_slides-parsed/`](topics/_slides-parsed/)。
+>
+> ⏳ **待補（投影片摘要）**：副甲狀腺（蔡克嵩）、甲狀腺孕期（黃君睿）、糖尿病骨骼（黃兆山）、王舜禾場次 —— 這 4 份投影片因 LlamaParse 額度用罄尚未解析，待額度補充後再升級為投影片版。
 
 ---
 
