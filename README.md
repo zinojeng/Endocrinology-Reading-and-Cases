@@ -14,6 +14,7 @@
 
 | 章 | 主題 | 連結 | 中英對照 |
 |----|------|------|----------|
+| Ch.36 | Digitized Approaches to Diabetes（CGM、TIR/TBR/TAR、AGP、insulin pump、AID） | [Ch36-Digitized-Approaches-to-Diabetes/](Ch36-Digitized-Approaches-to-Diabetes/) | [🇹🇼🇬🇧 Ch36 bilingual](Ch36-Digitized-Approaches-to-Diabetes/_source/Ch36-bilingual-EN-ZH.md) |
 | Ch.42 | Endocrine Neoplasia Syndromes（MEN1–5、MEON） | [Ch42-Endocrine-Neoplasia-Syndromes/](Ch42-Endocrine-Neoplasia-Syndromes/) | [🇹🇼🇬🇧 Ch42 bilingual](Ch42-Endocrine-Neoplasia-Syndromes/_source/Ch42-bilingual-EN-ZH.md) |
 | Ch.43 | Neuroendocrine Tumors and Disorders（NEN/NET/NEC） | [Ch43-Neuroendocrine-Tumors-and-Disorders/](Ch43-Neuroendocrine-Tumors-and-Disorders/) | [🇹🇼🇬🇧 Ch43 bilingual](Ch43-Neuroendocrine-Tumors-and-Disorders/_source/Ch43-bilingual-EN-ZH.md) |
 | Ch.44 | The Immunoendocrinopathy Syndromes（APS-I/II、IPEX…） | [Ch44-Immunoendocrinopathy-Syndromes/](Ch44-Immunoendocrinopathy-Syndromes/) | [🇹🇼🇬🇧 Ch44 bilingual](Ch44-Immunoendocrinopathy-Syndromes/_source/Ch44-bilingual-EN-ZH.md) |
