@@ -6,9 +6,10 @@
 
 | 會議 | 內容 | 連結 |
 |------|------|------|
+| **ENDO 2025** | Meet the Professor 41 個 case 依主題分類之繁體中文學習整理 | [**ENDO2025/**](ENDO2025/) |
 | **ENDO 2026** | Meet the Professor 40 個 case 雙語討論論壇（＋原書圖表）、雙語 ebook | [**ENDO2026/**](ENDO2026/) |
 
-> 後續可加入 **ENDO 2025** 及其他年度／學會資料，沿用 `Conferences/<會議年度>/` 命名。
+> 後續可加入其他年度／學會資料，沿用 `Conferences/<會議年度>/` 命名。
 
 ---
 
