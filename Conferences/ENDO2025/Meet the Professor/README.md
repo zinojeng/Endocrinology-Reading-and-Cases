@@ -19,6 +19,15 @@
 - **[Thyroid Biology and Cancer](./10-thyroid-biology-and-cancer/)** — 6 例
 - **[Tumor Biology](./11-tumor-biology/)** — 1 例
 
+## 錄影與投影片處理狀態
+
+- **25 個 case** 已完成 website recording transcript + full-frame slide OCR 整合摘要。
+- **10 個 case** 在 website inventory 中有對應 MTP recording，但本次 media extraction 尚待補齊。
+- **6 個 case** 在本次 website recording inventory 未找到對應 MTP recording；暫保留書本/公開目錄層級整理。
+
+> 為尊重版權，本 repo 不收錄原始音訊、逐字稿全文、投影片圖片、原表格或原圖像；只保留學習導向摘要與處理狀態。
+
+
 ## 41 個 case 總覽
 
 | # | 分類 | Case title | 中文標題 | Faculty |
@@ -69,7 +78,7 @@
 
 - 建議先從分類頁快速瀏覽同一主題下的 case，再回到原課程或原書進行完整學習。
 - 摘要以「臨床問題、診斷路徑、治療決策與照護陷阱」為導向，不取代原始 CME 教材。
-- 若後續取得個別演講錄影、投影片或合法授權文本，可在各分類頁下增補更完整的繁中筆記。
+- 個別 case 頁的 recording-derived 摘要來自 website recording 字幕與 full-frame slide OCR；未取得 media 的 case 會在頁面中明確標示。
 
 ## 參考來源
 

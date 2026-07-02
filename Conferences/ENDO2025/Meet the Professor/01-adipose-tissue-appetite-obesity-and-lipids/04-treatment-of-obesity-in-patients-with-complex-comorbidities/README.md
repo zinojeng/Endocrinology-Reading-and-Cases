@@ -36,6 +36,28 @@
 2. 若初始治療反應不如預期，下一步應先重新確認診斷、調整治療，還是轉介其他專科？
 3. 在台灣臨床情境中，哪些檢查、藥物或照護資源可能需要替代方案？
 
+## 網站錄影與投影片整理
+
+> **Recording status**：已依 ENDO 2025 website recording 取得 `MTP11` 字幕逐字稿與 full-frame slide OCR；本頁僅保留學習摘要，不重製原始逐字稿、表格或圖像。
+> **素材概況**：約 48 分鐘 recording；transcript 約 7,454 words；OCR slides 11 張。
+
+### Speaker transcript 重點
+
+- 講者以 case-based discussion 推進，將主訴、時間軸、關鍵檢驗/影像與治療選項放回同一個 clinical reasoning framework。
+- 以 obesity 的病因、共病風險、可治療 secondary causes 與長期體重管理策略作為決策主軸。
+- 逐字稿適合用來練習「下一步為什麼是這個檢查或治療」：先確認危險訊號與可逆因子，再依病人目標、治療風險與追蹤可行性做 shared decision-making。
+
+### Slides 解析重點
+
+- Slide OCR 顯示本場架構包括：Treatment Of Obesity In Patients With Complex COMORBIDITIES、No Relevant Personal Disclosures Off-Label Medication Use Will Be Discussed END·2025、CASE 1 Obesity Management In Patients Pre/Post Organ Transplant、Patients With Obesity Requiring Organ Transplantation、CASE 1、END·2025 ENDS2025。
+- 投影片主要補足 transcript 中的流程圖、criteria、risk stratification 與治療比較；整理時只萃取臨床決策重點，避免重製原圖表。
+
+### 合併學習 Takeaways
+
+- 先用 case 的 presentation 建立 differential diagnosis，再用 targeted testing 縮小不確定性。
+- 將治療選擇寫成可執行的 follow-up plan，包括監測指標、何時調整治療、何時轉介或升級處置。
+- 回到原始 recording 時，可優先重聽 faculty 如何處理邊界情境、contraindications 與病人偏好。
+
 ## 版權聲明
 
 原始內容 © 2025 the Endocrine Society，版權屬原權利人所有。本整理僅供教育與臨床討論使用，非官方出版品。

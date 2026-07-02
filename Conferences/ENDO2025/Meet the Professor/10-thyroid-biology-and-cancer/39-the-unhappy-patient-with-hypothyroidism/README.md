@@ -36,6 +36,13 @@
 2. 若初始治療反應不如預期，下一步應先重新確認診斷、調整治療，還是轉介其他專科？
 3. 在台灣臨床情境中，哪些檢查、藥物或照護資源可能需要替代方案？
 
+## 網站錄影與投影片整理
+
+> **Recording status**：全站 inventory 找到對應 `MTP39` MTP recording，但本次 media extraction 尚未完成；目前保留書本/目錄層級學習整理，待取得字幕與 slide OCR 後再補完整整合摘要。
+
+- 臨床閱讀時可先依本頁的「臨床學習摘要」與「臨床重點」建立討論框架。
+- 後續補齊 transcript/slides 後，建議再回填 speaker 的 case reasoning、投影片演算法與 take-home messages。
+
 ## 版權聲明
 
 原始內容 © 2025 the Endocrine Society，版權屬原權利人所有。本整理僅供教育與臨床討論使用，非官方出版品。

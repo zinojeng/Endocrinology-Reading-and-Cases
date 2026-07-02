@@ -31,6 +31,9 @@ Williams Textbook of Endocrinology 章節，由原始 PDF 經 **LlamaParse** 解
 
 ## 🌏 Conferences（國際會議）
 
+- [**ENDO 2025**](Conferences/ENDO2025/)
+  - [Meet the Professor 個案學習整理](Conferences/ENDO2025/Meet%20the%20Professor/) — 41 個 case，依 11 個內分泌主題分類，提供繁體中文學習摘要與臨床討論重點。
+
 - [**ENDO 2026**](Conferences/ENDO2026/)
   - [Meet the Professor 個案討論論壇](Conferences/ENDO2026/Meet%20the%20Professor/) — 40 個內分泌 case，雙語（繁中／英文）＋個案解析，並嵌入原書圖表。
   - [雙語 ebook](Conferences/ENDO2026/ebook/) — 2026 Endocrine Case Management: Meet the Professor 全書 zh-TW／English 對照 EPUB。
