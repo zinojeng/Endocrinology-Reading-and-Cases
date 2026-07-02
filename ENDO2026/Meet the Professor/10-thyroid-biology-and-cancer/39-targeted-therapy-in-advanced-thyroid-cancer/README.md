@@ -38,13 +38,25 @@ By May 2019, the patient developed locoregionally recurrent and distant metastat
 
 > 至 2019 年 5 月，病人出現局部復發併遠端轉移：左頸淋巴結最大 3.4 cm、散在肺結節最大 1.4 cm，以及 3.0 cm 的 gastrohepatic 淋巴結團塊。抑制狀態下 Tg 為 4.6 ng/mL。他開始接受 lenvatinib 全身性治療，出現治療相關高血壓，需使用降壓藥並最終減量。前 2 個週期後依 RECIST v1.1 達 partial response (PR)，腫瘤測量值下降 61%；Tg 降至 2.7 ng/mL。之後因治療相關腹瀉再度減量。病人對 lenvatinib 維持反應達 48 個月，直到出現寡進展性病灶（一處胸椎椎體轉移）。於 stereotactic body radiotherapy 期間暫停 lenvatinib，之後再恢復。7 個月後（2023 年 12 月），因左側 styloid 咽旁間隙出現腫塊而停用 lenvatinib。
 
-> 📊 圖：Case 1 病人 CT（2019 年 5 月與 7 月）—Panel A/D 左頸淋巴結、Panel B/E 肺轉移、Panel C/F gastrohepatic 淋巴結；治療後腫瘤明顯縮小（原書 Figure 1）。
+**Figure 1. Case 1 Patient CT（Case 1 病人 CT）**
+
+![Figure 1. Case 1 Patient CT](images/Wirth_Figure_1-gray.jpg)
+
+> 📎 Arrows indicate the following findings: Panel A , left cervical adenopathy in May 2019; Panel B , lung metastasis in May 2019; Panel C , gastrohepatic adenopathy in May 2019; Panel D , left cervical adenopathy in July 2019; Panel E , lung metastasis in July 2019; Panel F , gastrohepatic adenopathy in July 2019.
+>
+> 箭頭標示以下發現：Panel A，2019 年 5 月左頸 adenopathy；Panel B，2019 年 5 月肺轉移；Panel C，2019 年 5 月 gastrohepatic adenopathy；Panel D，2019 年 7 月左頸 adenopathy；Panel E，2019 年 7 月肺轉移；Panel F，2019 年 7 月 gastrohepatic adenopathy。
 
 In January 2024, second-line dabrafenib plus trametinib was initiated. By cycle 4, RECIST v1.1 met criteria for PR with a 31% decrease. During that time, Tg increased from 14 to 19 ng/mL. While on dabrafenib plus trametinib, the patient received a second 100 mCi dose of thyrotropin alfa–stimulated RAI; the stimulated Tg was 120 ng/mL, and the subsequent whole-body scan showed a solitary focus of uptake in the left neck. Two months later, suppressed Tg dropped to 6.1 ng/mL. A dose reduction was required for treatment-related pyrexia syndrome, but the regimen was otherwise well tolerated. He remained responsive for 22 months until multifocal thoracic spine metastases developed in November 2025. Dabrafenib plus trametinib was discontinued, stereotactic body radiotherapy was administered, and further systemic therapy (cabozantinib or clinical trials) is now under consideration.
 
 > 2024 年 1 月啟動二線 dabrafenib 併 trametinib。至第 4 週期依 RECIST v1.1 達 PR，腫瘤下降 31%。期間 Tg 由 14 上升至 19 ng/mL。在使用 dabrafenib 併 trametinib 期間，病人接受第二次 100 mCi thyrotropin alfa 刺激的 RAI；刺激下 Tg 為 120 ng/mL，隨後全身掃描顯示左頸單一攝取灶（顯示 redifferentiation 使 RAI 攝取恢復）。2 個月後抑制狀態 Tg 降至 6.1 ng/mL。因治療相關 pyrexia syndrome（發熱症候群）需減量，其餘耐受良好。病人維持反應達 22 個月，直到 2025 年 11 月出現多發性胸椎轉移。停用 dabrafenib 併 trametinib，給予 stereotactic body radiotherapy，目前考慮進一步全身性治療（cabozantinib 或臨床試驗）。
 
-> 📊 圖：Case 1 病人 CT 與 post-RAI 全身掃描—Panel A/B 左側 styloid 咽旁腫塊（2023 年 12 月與 2024 年 4 月）、Panel C 2024 年 7 月 post-RAI 全身掃描（原書 Figure 2）。
+**Figure 2. Case 1 Patient CT and Post-RAI Whole-Body Scan（Case 1 病人 CT 與 RAI 後全身掃描）**
+
+![Figure 2. Case 1 Patient CT and Post-RAI Whole-Body Scan](images/Wirth_Figure_2-gray.jpg)
+
+> 📎 Panel A , left styloid parapharyngeal mass ( arrow ) in December 2023; Panel B , left styloid parapharyngeal mass ( arrow ) in April 2024; Panel C , Post-RAI whole-body scan in July 2024.
+>
+> Panel A，2023 年 12 月左側 styloid 咽旁腫塊（箭頭）；Panel B，2024 年 4 月左側 styloid 咽旁腫塊（箭頭）；Panel C，2024 年 7 月 RAI 後全身掃描。
 
 ### Case 2 — 放射線暴露後、RET fusion–positive PTC
 
@@ -56,7 +68,13 @@ Systemic therapy was initiated with selpercatinib to achieve clinical benefit an
 
 > 以 selpercatinib 啟動全身性治療，目標為取得臨床效益，若有反應則使疾病轉為可切除。因 QTc 延長而減量，之後緩解。咳嗽、呼吸困難與吞嚥困難皆消退。2 個週期後腫瘤測量值下降 27%（RECIST v1.1）；4 個週期後下降 50%。第 8 個月時病人出現 erectile dysfunction（selpercatinib 已知副作用），以 tadalafil 治療。追蹤頸部 CT 顯示明顯改善，環狀氣管侵犯已消失；整體腫瘤下降 61%。目前正規劃分階段 hemithyroidectomy 併雙側 central 與 lateral 頸部區室廓清，術後 RAI 將依手術結果規劃，並考慮 RAI 前先以 selpercatinib 進行 redifferentiation，或單用 RAI。
 
-> 📊 圖：Case 2 病人 CT—Panel A/C 雙側頸部淋巴結（2025 年 6 月 vs 2026 年 2 月）、Panel B/D 環狀腫瘤與氣管狹窄治療前後改善（原書 Figure 3）。
+**Figure 3. Case 2 Patient CT（Case 2 病人 CT）**
+
+![Figure 3. Case 2 Patient CT](images/Wirth_Figure_3.jpg)
+
+> 📎 Panel A , bilateral cervical adenopathy in June 2025; Panel B , circumferential tumor and tracheal narrowing in June 2025; Panel C , improved bilateral cervical adenopathy in February 2026; Panel D , improved circumferential tumor and tracheal narrowing in February 2026.
+>
+> Panel A，2025 年 6 月雙側頸部 adenopathy；Panel B，2025 年 6 月環狀腫瘤與氣管狹窄；Panel C，2026 年 2 月雙側頸部 adenopathy 改善；Panel D，2026 年 2 月環狀腫瘤與氣管狹窄改善。
 
 ---
 

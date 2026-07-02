@@ -97,7 +97,11 @@ TBS 可直接由病人的腰椎 DXA 掃描計算，已獲 FDA 核准並整合於
 
 TBS 可納入 FRAX 以精修骨折風險評估。就本病例而言，不同 TBS 值對骨折風險的影響見下表（原書表格）。
 
-> 📊 表：本病例在有／無 TBS 校正下的骨折風險評估（**Patient's Fracture Risk Assessment With and Without TBS Adjustment**；原書圖，數值影像無法解析，故不逕行列出具體數字）。臨床意涵為：偏低的 TBS 會上調 FRAX 的骨折風險估計，偏高的 TBS 則下調之，藉此協助決定是否啟動骨鬆藥物治療。
+**Table. Patient's Fracture Risk Assessment With and Without TBS Adjustment**（本病例在有／無 TBS 校正下的骨折風險評估）
+
+![Table. Patient's Fracture Risk Assessment With and Without TBS Adjustment](images/tablefracture.jpg)
+
+臨床意涵：偏低的 TBS 會上調 FRAX 的骨折風險估計，偏高的 TBS 則下調之，藉此協助決定是否啟動骨鬆藥物治療。
 
 > According to ISCD guidelines, in individuals for whom you are trying to decide whether to treat with bone medications, TBS can provide a refined fracture risk assessment and help with clinical decision-making.
 

@@ -77,7 +77,13 @@ Case detection is performed using the aldosterone-renin ratio (ARR); patients wi
 The latest PA Endocrine Society guidelines recommend that screening may proceed **while potentially interfering medications are still in use**, with results interpreted accordingly, to improve historically low screening rates. Patients with suppressed renin and inappropriate aldosterone signals despite being on ACE inhibitors or ARBs are considered to have a positive screening test.
 > 最新的 Endocrine Society PA 指引建議：篩檢可在「仍使用可能干擾藥物的情況下」進行，並據此判讀結果，以提升一向偏低的篩檢率。即使病人正服用 ACE inhibitor 或 ARB，若仍呈現 renin 被抑制且 aldosterone 訊號不適當升高，即視為篩檢陽性。
 
-> 📊 表 1：可能造成 ARR 偽陽性與偽陰性的因素（原書 Table 1，引用文獻 10–13；圖例：↑ 升高、←→ 不變、↓ 降低）。附註：Estrogen 會刺激肝臟製造 angiotensinogen（renin 受質），使 plasma renin activity 上升，但反而使 direct renin concentration 降低。
+**Table 1. Factors That May Cause False-Positive and -Negative ARR Results 10-13**（表 1：可能造成 ARR 偽陽性與偽陰性結果的因素）
+
+![Table 1. Factors That May Cause False-Positive and -Negative ARR Results 10-13](images/table1b.jpg)
+
+> 📎 Legend: ↑ increased, ←→ unchanged, ↓ decreased
+>
+> 圖例：↑ 升高、←→ 不變、↓ 降低。
 
 ### 確認試驗（Aldosterone-Suppression Test）Confirmatory Testing
 
@@ -165,11 +171,33 @@ Chronic aldosterone excess causes increased sodium reabsorption, increased renal
 
 **Case 2 續 — AVS 判讀（with continuous cosyntropin）**：兩側 adrenal vein 的 cortisol 皆 ≥ IVC 的 5 倍，確認插管成功。右側 aldosterone-to-cortisol ratio 為左側的 9.7 倍（>4 倍），符合右側 lateralization；且左側對側被抑制（左側 A/C ratio 低於 IVC）。病人接受右側 adrenalectomy，術後血壓改善至 103/65 mm Hg，達 complete biochemical success（PAC = 4.0 ng/dL、PRA = 0.6 ng/mL/h、不需補鉀而血鉀正常）。
 
-> 📊 表 2 / 表 3：Case 2 的 ARR 與 SST 結果、AVS 結果（原書 Table 2、Table 3）。AVS lateralization ratio to right = 2.9/0.3 = 9.7；contralateral suppression of left = 0.3/1.8 = 0.2。
+**Table 2. Case 2 Patient's ARR and SST Results**（表 2：Case 2 病人的 ARR 與 SST 結果）
+
+![Table 2. Case 2 Patient’s ARR and SST Results](images/table2case2.jpg)
+
+**Table 3. Case 2 Patient's AVS Results**（表 3：Case 2 病人的 AVS 結果）
+
+![Table 3. Case 2 Patient’s AVS Results](images/table3case2.jpg)
+
+> 📎 Lateralization ratio to the right: 2.9/0.3 = 9.7
+>
+> 右側 lateralization ratio：2.9/0.3 = 9.7。
 
 ### Case 3：AVS 落在不確定區間時的下一步
 
 **關鍵數值**：初始（hydralazine + verapamil）PAC = 33.8 ng/dL、PRA = 1.7 ng/mL/h、K = 4.1 mEq/L；換藥後 IV SST 後 PAC = 24.5 ng/dL（680 pmol/L，符合 PA）；CT 顯示右側 8 mm nodule。AVS（with cosyntropin）：lateralization ratio to right = 5.17/1.68 = 3.1；contralateral suppression of left = 1.68/2.52 = 0.7。
+
+**Table 4. Case 3 Patient's ARR and SST Results**（表 4：Case 3 病人的 ARR 與 SST 結果）
+
+![Table 4. Case 3 Patient’s ARR and SST Results](images/table4a.jpg)
+
+**Table 5. Case 3 Patient's AVS Results**（表 5：Case 3 病人的 AVS 結果）
+
+![Table 5. Case 3 Patient’s AVS Results](images/table5a.jpg)
+
+> 📎 Lateralization ratio to the right: 5.17/1.68 = 3.1
+>
+> 右側 lateralization ratio：5.17/1.68 = 3.1。
 
 **最佳處置 = C）Inconclusive AVS；若可行，考慮進一步 subtyping（molecular imaging [PET-CT] 或 hybrid hormones）。**
 
@@ -181,14 +209,26 @@ Chronic aldosterone excess causes increased sodium reabsorption, increased renal
 
 **本例後續**：¹¹C-metomidate PET-CT 顯示右側 nodule 強烈攝取，SUVmax 47.3 vs 左側 24.2，比值 1.95（> 閾值 1.25），符合右側 lateralization。Baseline hybrid hormones 皆升高：18-oxocortisol = 10.6 ng/dL（> 閾值 6.1 ng/dL）、18-hydroxycortisol = 142.2 ng/dL。病人接受右側 adrenalectomy，CYP11B2 免疫組織化學顯示 11 mm APA（以 zona-fasciculata 細胞為主）。術後一年高血壓完全治癒，達 complete biochemical success（PAC = 4.0 ng/dL、PRA = 3.1 ng/mL/h、K = 4.0 mEq/L）。
 
-> 📊 圖 3：Case 3 的 ¹¹C-Metomidate PET-CT 影像（原書 Figure 3）。Panel A：CT 顯示右側 8 mm adrenal nodule；Panel B：PET 上高度攝取，SUVmax 47.3（右）vs 24.2（左）；Panel C：融合影像顯示最高攝取位於 adrenal adenoma。
+**Figure 3. Case 3 Patient's Imaging**（圖 3：Case 3 病人的影像）
+
+![Figure 3. Case 3 Patient’s Imaging](images/Puar&Leungsuwan_Figure_3-gray.jpg)
+
+> 📎 11 C-Metomidate PET-CT with Panel A , CT showing a right-sided 8-mm adrenal nodule; Panel B , highly PET-avid on PET with SUV max of 47.3 compared with the left gland with an SUV max of 24.2; Panel C , the fused images showing that the highest PET uptake is over the adrenal adenoma.
+>
+> ¹¹C-Metomidate PET-CT：Panel A，CT 顯示右側 8 mm adrenal nodule；Panel B，PET 上高度攝取，SUVmax 47.3，相較於左側腺體的 SUVmax 24.2；Panel C，融合影像顯示最高 PET 攝取位於 adrenal adenoma。
 
 ### 判讀陷阱總覽 Pearls and Pitfalls in PA Screening
 
 - **Unilateral PA 的可能性**：aldosterone 越高、低血鉀越嚴重，unilateral PA 的機率越高。²⁰⁻²² 一般而言表型越嚴重（PAC 較高、血鉀較低、高血壓較嚴重）越可能是 unilateral。SST 後 aldosterone 越高越可能在 AVS 呈現 lateralization；但即使 post-SST aldosterone <10 ng/dL（<277 pmol/L），仍有多達 15% 的病人在 AVS 呈現 lateralization——故是否 subtyping 應個別化，並納入病人手術意願。
 - **生物與檢驗變異 Biological & assay variability**：Aldosterone 分泌有日內與日間波動，受 ACTH 影響通常早上較高。²⁴ 即使是已手術治癒的 unilateral PA，某些日子 aldosterone 也可能落在正常範圍。²⁵ 因此對高 pretest probability 者（如不明原因低血鉀合併高血壓），若首次 ARR 陰性，值得重測。Assay variability（同一檢體同一方法重複測定的差異）約 ≤10%，無論 immunoassay 或 LC-MS/MS 皆然。
 
-> 📊 圖 1：Lateralization 隨 SST 的變化（原書 Figure 1，Parksook WW et al. *J Clin Endocrinol Metab* 2024;109(9):2220-2232）。288 位 overt PA 合併低血鉀病人中，143 位（49%）為 lateralizing PA；在 post-SST aldosterone <10 ng/dL（<277 pmol/L）的 89 位中，仍有 13 位（15%）為 lateralizing PA。
+**Figure 1. Lateralization of Aldosterone Production and Treatment Decisions as a Function of SST**（圖 1：aldosterone 生產的 lateralization 與治療決策隨 SST 的變化）
+
+![Figure 1. Lateralization of Aldosterone Production and Treatment Decisions as a Function of SST](images/Puar&Leungsuwan_Figure_1-gray.jpg)
+
+> 📎 Lateralization of aldosterone production. Lateralization was assessed via AVS or imaging for a unilateral adrenal mass in patients with overt PA and hypokalemia; 143 of 288 patients (49%) were determined to have lateralizing PA. The inset depicts a magnified view of only those participants who had a post-SST aldosterone value less than 10 ng/ dL (<277 pmol/ L), wherein 13 of 89 patients (15%) had lateralizing PA (15%). Reprinted from Parksook WW et al. J Clin Endocrinol Metab, 2024; 109(9): 2220-2232. © The Authors. Published by Oxford University Press on behalf of the Endocrine Society. 23
+>
+> Aldosterone 生產的 lateralization。以 AVS 或針對單側 adrenal mass 的影像評估 overt PA 合併 hypokalemia 病人的 lateralization；288 位病人中有 143 位（49%）判定為 lateralizing PA。內插圖為僅針對 post-SST aldosterone <10 ng/dL（<277 pmol/L）病人的放大檢視，其中 89 位中有 13 位（15%）為 lateralizing PA。轉載自 Parksook WW et al. J Clin Endocrinol Metab, 2024; 109(9): 2220-2232。© The Authors. 由 Oxford University Press 代表 Endocrine Society 出版。
 
 ---
 
@@ -210,7 +250,13 @@ Chronic aldosterone excess causes increased sodium reabsorption, increased renal
 - **Molecular imaging**：¹¹C-metomidate（MTO）PET-CT 與 ⁶⁸Ga-pentixafor 已用於臨床試驗。MTO 抑制 CYP11B1（cortisol 合成）與 CYP11B2（aldosterone 合成），可 ¹¹C 標記做 PET；影像前給 dexamethasone 以增強對 CYP11B2 的選擇性。最大型的 MATCH study 顯示 ¹¹C-MTO PET-CT 對 AVS 為 non-inferior；²⁹ 部分 AVS 未 lateralize 的 unilateral PA 在 ¹¹C-MTO PET-CT 卻清楚 lateralize，且術後達 complete biochemical remission。若可取得，可作為 first-line、非侵入性 subtyping 工具（陽性即可免做侵入性檢查），³⁰ 也可用於 AVS 失敗或無法取得時。目前 PA 影像 radiotracer 仍不普及。
 - **Hybrid hormones 與 steroid profiling**：高達 95% 的 APA 帶有 somatic pathogenic variant。³¹ *KCNJ5* 是 ≥1 cm APA 最常見的 somatic variant，在亞洲族群較盛行；*KCNJ5*-variant APA 術後預後最佳、最可能完全治癒高血壓。²⁹ 這類病人常有高 hybrid hormones（18-oxocortisol 與 18-hydroxycortisol），18-oxocortisol 常 >6.1 ng/dL。³² 因此 CT 上有可見 adenoma 且 hybrid hormone 明顯升高者，可考慮手術（仍需前瞻性試驗驗證）。Steroid profiling 結合 machine-learning AI 模型在 PA 篩檢與 unilateral PA subtyping 皆展現準確度，³³ 未來或優於單一 aldosterone 測定。
 
-> 📊 圖 2：PA subtyping 的未來建議流程（原書 Figure 2，Teo AED et al. *J Clin Endocrinol Metab* 2025;110(12):3559-3568）。各 subtype 檢查特異性高，故由低至高侵入性依序使用：hybrid hormone/steroid panel → molecular imaging → AVS。*¹¹C-MTO PET-CT 之清楚 lateralization 採 SUVmax ratio >1.25；其他 radiotracer 閾值不同。縮寫：NA = not available；SUVmax = maximum standardized uptake value。
+**Figure 2. Proposed Future Algorithm for Subtyping PA**（圖 2：PA subtyping 的未來建議流程）
+
+![Figure 2. Proposed Future Algorithm for Subtyping PA](images/Puar&Leungsuwan_Figure_2-gray.jpg)
+
+> 📎 Abbreviations: NA, not available; SUVmax, maximum standardized uptake value. Current data suggest that each subtype test is highly specific. Hence, this algorithm recommends using them sequentially, from least to most invasive: hybrid hormone/steroid panel algorithm, molecular imaging, and AVS. *Clear lateralization for 11 C-MTO PET-CT uses an SUV max ratio of greater than 1.25; thresholds with other radiotracers would differ. Reprinted from Ada E D Teo et al. J Clin Endocrinol Metab, 2025; 110(12): 3559-3568. © The Authors. Published by Oxford University Press on behalf of the Endocrine Society. 30
+>
+> 縮寫：NA = not available；SUVmax = maximum standardized uptake value。現有數據顯示各 subtype 檢查特異性皆高，故本流程建議由低至高侵入性依序使用：hybrid hormone/steroid panel 演算法、molecular imaging，以及 AVS。*¹¹C-MTO PET-CT 之清楚 lateralization 採 SUVmax ratio >1.25；其他 radiotracer 的閾值則不同。轉載自 Ada E D Teo et al. J Clin Endocrinol Metab, 2025; 110(12): 3559-3568。© The Authors. 由 Oxford University Press 代表 Endocrine Society 出版。
 
 ---
 

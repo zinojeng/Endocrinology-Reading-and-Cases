@@ -56,7 +56,13 @@
 
 **繁中.** 之所以需要超生理劑量才能壓抑腎上腺來源雄性素，原因有三：(1) ACTH 與腎上腺類固醇生成約在清晨 0400、在起床與第一劑 hydrocortisone 之前即開始上升；(2) 原本約 7 mg/m²/day 的龐大 cortisol 生成通量被改道流向性類固醇，而性類固醇在低 100 倍的濃度即具活性；(3) 口服 hydrocortisone 依其濃度成比例快速清除。較強效的合成 GC（prednisolone 及其前驅藥 prednisone、methylprednisolone、dexamethasone）治療區間狹窄，過度治療會抑制生長。故兒童期照護是在過度與不足之間的細膩平衡，需頻繁監測與劑量調整，並考量體型隨時間增大。
 
-> 📊 圖：CAH 病人治療的平衡（原書 Figure 1）。CAH 的「過度治療」與「治療不足」都會導致急性與慢性併發症；治療目標是在兩端之間求取平衡。
+**Figure 1. Balancing Treatment for Patients With CAH（CAH 病人治療的平衡）**
+
+![Figure 1. Balancing Treatment for Patients With CAH](images/Auchus&Wilson_Figure_1-gray.jpg)
+
+> 📎 Both overtreatment and undertreatment of CAH can lead to acute and chronic complications. Reprinted from Nokoff NJ et al. J Clin Endocrinol Metab, 2025; 110(Supplement 1): S13-S24. © The Authors. Published by Oxford University Press on behalf of the Endocrine Society.
+>
+> CAH 的過度治療與治療不足都可能導致急性與慢性併發症。轉載自 Nokoff NJ 等人。J Clin Endocrinol Metab, 2025; 110(Supplement 1): S13-S24。© 作者群。由 Oxford University Press 代表 Endocrine Society 出版。
 
 **English.** Upon reaching adulthood, skeletal growth is complete and well-managed adolescents have finished pubertal maturation, so treatment intensity can be relaxed somewhat—gonadal-derived androgens normally equal or exceed the adrenal component in unaffected adults. Nevertheless, supraphysiological GC dosing is still necessary in most patients to allow normal gonadal function. Cohorts of adults with CAH show a high prevalence of obesity, insulin resistance, low bone mineral density, and cardiovascular events—very similar to adults with subtle hypercortisolism from adrenal adenomas. This drives the search for alternative approaches to reduce excess GC exposure.
 
@@ -68,7 +74,13 @@
 
 **繁中.** 在 21-OHD 中，cortisol 與 aldosterone 合成受阻，使類固醇通量改道至雄性素。阻斷點上游主要累積的是 17-hydroxyprogesterone（17-OHP），為診斷依據，在兒童也用於監測。腎上腺產生 androstenedione（A4），主要在腎上腺外組織轉為 testosterone（T）與 5α-dihydrotestosterone（DHT）。腎上腺專一的 11β-hydroxylase（CYP11B1）將 A4 轉為 11β-hydroxyandrostenedione（11-OHA4），再於周邊轉為活性雄性素 11-ketotestosterone（11-KT）及其 5α-還原代謝物。在 21-OHD，11-OHA4 與 11-KT 常分別高於 A4 與 T。其他伴雄性素過多的 CAH（11-OHD、3β-HSD2D）則因 11-OHD 或腺內 A4 合成極少，幾乎不產生 11-OHA4/11-KT。此外，17-OHP 上游的 progesterone（P4）亦會累積，腺內缺乏有效代謝途徑（21-OHD 中僅部分 P4 被 11β-羥化）。與合成 progestins 相似，P4 可壓抑或改變兩性的 hypothalamic-pituitary-gonadal 軸；在女性，P4 對子宮的作用是月經不規則與不孕的主因。
 
-> 📊 圖：21-OHD 中的腎上腺類固醇生成途徑與異常（原書 Figure 2）。阻斷點上游累積的 17-OHP 可經 A4 與 11-OHA4 轉為雄性素，或在 5α-還原後經 alternative pathway 轉為 5α-DHT；progesterone 亦在 17-OHP 上游累積。
+**Figure 2. Pathways of Adrenal Steroidogenesis and Derangements in 21-OHD（21-OHD 中的腎上腺類固醇生成途徑與異常）**
+
+![Figure 2. Pathways of Adrenal Steroidogenesis and Derangements in 21-OHD](images/Auchus&Wilson_Figure_2-gray.jpg)
+
+> 📎 The 17-hydroxyprogesterone that accumulates above the block can be converted to androgens via androstenedione and 11 β -hydroxyandrostenedione or, after 5 α -reduction, through the alternative pathway to 5 α -dihydrotestosterone. Progesterone also accumulates upstream of 17-hydroxyprogesterone. Reprinted from Claahsen-van der Grinten HL et al. Endocr Rev , 2022; 43(1): 91-159. © The Authors. Published by Oxford University Press on behalf of the Endocrine Society.
+>
+> 累積在阻斷點上游的 17-hydroxyprogesterone 可經 androstenedione 與 11β-hydroxyandrostenedione 轉為雄性素，或在 5α-還原後經 alternative pathway 轉為 5α-dihydrotestosterone。Progesterone 亦累積於 17-hydroxyprogesterone 上游。轉載自 Claahsen-van der Grinten HL 等人。Endocr Rev, 2022; 43(1): 91-159。© 作者群。由 Oxford University Press 代表 Endocrine Society 出版。
 
 ### Practice Gaps 臨床落差
 
@@ -95,7 +107,9 @@
 
 **繁中.** 調整 fludrocortisone 時，可參考站立血壓、血鉀與血鈉、以及 plasma renin activity 或 mass。若疲倦感一整天逐漸加重、且在 GC 給藥後仍未改善，可能為容積不足，增加 fludrocortisone 可改善。反之，低血鉀、高血壓與肌肉抽筋常提示 fludrocortisone 過量，尤其與具部分礦皮質活性的 hydrocortisone 併用時。
 
-> 📊 圖：21-OHD 的監測參數（原書 Box 2）。整合上述生物標記、血壓、電解質與 renin 作為 GC 與 fludrocortisone 調整依據。
+**Box 2. Monitoring Parameters for 21-OHD（21-OHD 的監測參數）**
+
+![Box 2. Monitoring Parameters for 21-OHD](images/box2a.jpg)
 
 ### 男性睪丸功能評估 Assessing Testicular Function in Men
 
@@ -119,7 +133,9 @@
 
 **繁中.** 原發性腎上腺功能不全的類固醇補充，以 GC 近似晝夜 cortisol 節律，並以 fludrocortisone acetate 取代 aldosterone。多數 hydrocortisone 方案採每日 2–3 劑，起床時給最大劑以模擬清晨高峰，第二劑於中午或稍後，有時第三劑於下午晚些。由此得到的 cortisol–時間曲線並非平滑複製，而是高峰更高、低谷更低的鋸齒狀扭曲；但因 cortisol 在細胞內的作用於清除後仍持續數小時，病人多能耐受。較長效的合成 GC 通常每日一次，但其快速達峰與指數式清除無法重現正常動態。Fludrocortisone 半衰期長，透過數天到數週的容積擴張作用，可每日一次、兩次甚至隔日給藥。
 
-> 📊 圖：CAH 的階梯式 GC 治療（原書 Box 1）。依控制需求逐步選用 hydrocortisone 與較強效合成 GC 的處置流程。
+**Box 1. Stepped GC Therapy for CAH（CAH 的階梯式 GC 治療）**
+
+![Box 1. Stepped GC Therapy for CAH](images/box1a.jpg)
 
 ### 劑量等值與陷阱 Dose Equivalence & Pitfalls
 
@@ -151,7 +167,13 @@
 
 **繁中.** 對 **古典型 21-OHD 成人**，關鍵差異在於真正的 cortisol（且常伴 aldosterone）不足——GC 不可完全停用。通常需超生理劑量（常 15–17 mg/m²/day）才能維持生育力並預防腫瘤形成。英國與 NIH 大型觀察研究顯示 GC 過度暴露相關共病（肥胖、葡萄糖耐受不良、心血管風險與事件、骨量減少、心理健康治療）盛行率偏高。非 GC 治療的邏輯是：減少 GC 暴露可減輕這些共病——同時以攻擊其他標的的藥物維持疾病控制。
 
-> 📊 圖：CAH 非 GC 療法的作用標的（原書 Figure 3）。自本圖發表後，Lu AG13909（asedebart）與 atumelnant 已進入成人 phase 2/3 試驗，atumelnant 另有兒童 phase 3 試驗；crinecerfont 在 phase 3b 與 4 試驗；abiraterone acetate 的 phase 1 試驗已終止。
+**Figure 3. Targets of Non-GC Therapies for CAH（CAH 非 GC 療法的作用標的）**
+
+![Figure 3. Targets of Non-GC Therapies for CAH](images/Auchus&Wilson_Figure_3-gray.jpg)
+
+> 📎 Since this publication, both Lu AG13909 (asedebart) and atumelnant have advanced to phase 2 and 3 trials in adults, with a phase 3 trial of atumelnant in children. Crinecerfont is in phase 3b and 4 trials, and the phase 1 trial of abiraterone acetate has been terminated. Reprinted from Sarafoglou K & Auchus RJ. J Clin Endocrinol Metab, 2025; 110(Supplement 1): S74-S87. © The Authors. Published by Oxford University Press on behalf of the Endocrine Society.
+>
+> 自本圖發表後，Lu AG13909 (asedebart) 與 atumelnant 已進展至成人 phase 2 與 3 試驗，atumelnant 另有兒童 phase 3 試驗。Crinecerfont 在 phase 3b 與 4 試驗中，abiraterone acetate 的 phase 1 試驗已終止。轉載自 Sarafoglou K 與 Auchus RJ。J Clin Endocrinol Metab, 2025; 110(Supplement 1): S74-S87。© 作者群。由 Oxford University Press 代表 Endocrine Society 出版。
 
 ### 改良藥動學：連續輸注與 MR-HC
 

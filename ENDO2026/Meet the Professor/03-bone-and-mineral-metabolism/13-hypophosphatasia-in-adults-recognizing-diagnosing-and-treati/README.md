@@ -105,7 +105,13 @@ Radiographic manifestations in adults may include:<sup>7,10,12,15</sup>
 
 DXA 在 HPP 中無法可靠評估骨折風險；儘管有 osteomalacia 的可能，腰椎骨密度（BMD）卻常保留甚至偏高。
 
-> 📊 圖：成人 HPP 的診斷路徑（Diagnostic Pathways for HPP in Adults）。成人 HPP 患者可經由三種途徑進入診斷流程：具提示性的臨床特徵、偶然發現持續偏低的 ALP、或偶然檢出的 pathogenic *ALPL* 變異。在排除次發性原因後，持續偏低或低-正常的 ALP 應促使進行 HPP 評估，並注意 total ALP 可能被非 TNSALP 同功酶或骨/肝 ALP 的暫時性上升所掩蓋。診斷確立需仰賴平行（而非依序）評估生理性 TNSALP 受質（PLP、PEA、可取得時的 PPi）與 *ALPL* 定序，並整合臨床、生化與基因資料，而非依賴任何單一參數。（原書圖）
+**Figure. Diagnostic Pathways for HPP in Adults**（成人 HPP 的診斷路徑）
+
+![Figure. Diagnostic Pathways for HPP in Adults](images/Pallais_Figure-gray.jpg)
+
+> 📎 Adults with HPP may enter the diagnostic pathway through suggestive clinical features, incidentally identified persistently low ALP, or incidental detection of a pathogenic ALPL variant. Persistently low or low-normal ALP, after exclusion of secondary causes, should prompt evaluation for HPP, recognizing that total ALP may be masked by non-TNSALP isoenzymes or transient increases in bone or liver ALP. Diagnostic confirmation relies on parallel, rather than sequential, assessment of physiologic TNSALP substrates (PLP, PEA, PPi when available) and ALPL sequencing. Diagnosis integrates clinical, biochemical, and genetic data rather than any single parameter.
+>
+> 成人 HPP 患者可經由三種途徑進入診斷流程：具提示性的臨床特徵、偶然發現持續偏低的 ALP、或偶然檢出的 pathogenic ALPL 變異。在排除次發性原因後，持續偏低或低-正常的 ALP 應促使進行 HPP 評估，並須注意 total ALP 可能被非 TNSALP 同功酶或骨/肝 ALP 的暫時性上升所掩蓋。診斷確立需仰賴平行（而非依序）評估生理性 TNSALP 受質（PLP、PEA、可取得時的 PPi）與 ALPL 定序。診斷整合臨床、生化與基因資料，而非依賴任何單一參數。
 
 ### Diagnostic Criteria for HPP in Adults 成人 HPP 診斷準則
 

@@ -204,7 +204,9 @@ germ-cell cancer 的終生風險未知，但青春期前風險偏低。惡性風
 - 10 年後重複 gonadal biopsy
 - 性腺可觸及者，建議定期自我檢查（self-examination）
 
-> 📊 圖：Box — 臨床與檢驗追蹤項目一覽（長期需納入 replacement therapy、bone health、心理福祉與 cardiometabolic health 等面向）（原書圖，連結無法解析）
+**Box. Clinical and Laboratory Follow Up（臨床與檢驗追蹤）**
+
+![Box. Clinical and Laboratory Follow Up](images/boxclinical2.jpg)
 
 ### 女性荷爾蒙補充 Hormone Replacement in Women
 

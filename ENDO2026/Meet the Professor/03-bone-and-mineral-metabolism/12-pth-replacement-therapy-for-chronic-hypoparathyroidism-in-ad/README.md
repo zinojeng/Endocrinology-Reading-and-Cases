@@ -33,7 +33,9 @@
 
 儘管使用 calcium carbonate 與 calcitriol，生化控制仍不理想。開始使用 palopegteriparatide，起始劑量 18 mcg 每日，6 個月後逐步調升至 27 mcg 每日，到第 52 個月達到 60 mcg 每日。至第 52 個月時，病人血清 calcium 改善、尿鈣排泄減少、腎功能改善，且自開始 palopegteriparatide 後未再發生腎結石。
 
-> 📊 表：Case 1 的基礎與追蹤生化數值（原書 Table，圖片連結無法解析）。
+**原書表格（Original Table）**
+
+![原書表格](images/tableparam.jpg)
 
 ### Case 2 — Postsurgical HypoPT
 
@@ -45,7 +47,13 @@
 
 這些症狀使她需要頻繁的緊急 calcium 補充，並伴隨血清 calcium 明顯波動，由 hypocalcemia 至 hypercalcemia。她已無法繼續工作，目前領取身心障礙補助。在 45 歲時開始 palopegteriparatide，起始 18 mcg 每日，於 32 個月內逐步調升至 27 mcg 每日，並成功停用 conventional therapy。她表示 PTH therapy「讓我重新拿回我的人生」，並得以重返職場。
 
-> 📊 圖：以 PTH replacement therapy 治療前後，albumin-corrected serum calcium 的縱向變化（原書 Figure；圖片連結無法解析）。
+**Figure. Longitudinal Changes in Corrected Serum Calcium With PTH Replacement Therapy**（圖：PTH replacement therapy 期間 corrected serum calcium 的縱向變化）
+
+![Figure. Longitudinal Changes in Corrected Serum Calcium With PTH Replacement Therapy](images/Khan&Ali_Figure-gray.jpg)
+
+> 📎 [Color—Print (Color Gallery page CG6 ) or web & ePub editions]
+>
+> ［彩色版——見印刷版 Color Gallery 第 CG6 頁，或 web 與 ePub 版本］
 
 ---
 

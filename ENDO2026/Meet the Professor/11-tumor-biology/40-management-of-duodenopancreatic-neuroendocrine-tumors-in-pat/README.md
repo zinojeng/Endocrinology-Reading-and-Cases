@@ -29,9 +29,41 @@
 A 19-year-old man is brought to the emergency department after being found unconscious in his car. On arrival of emergency medical services, his plasma glucose concentration was 21 mg/dL (參考範圍 70-99 mg/dL) (SI: 1.7 mmol/L [3.9-5.5 mmol/L]). Intravenous dextrose was administered with prompt resolution of symptoms. One year ago, he experienced a similar episode of severe hypoglycemia requiring intravenous dextrose. His family history is notable for MEN1 affecting his father, paternal uncle, and grandfather.
 一名 19 歲男性因在車內失去意識被送至急診。EMS 到場時血漿葡萄糖僅 21 mg/dL（SI: 1.7 mmol/L），靜脈注射 dextrose 後症狀迅速緩解。一年前曾有類似嚴重低血糖並須靜脈給糖的病史。家族史顯示其父親、叔伯與祖父皆罹患 MEN1。影像上於胰臟體部發現 17 mm 顯影腫塊，<sup>68</sup>Ga-DOTATATE PET-MRI 顯示胰臟頭/頸部有一顯影強烈的外突性腫塊。臨床高度懷疑 insulinoma。
 
+**Figure 1. Case 1 Abdominal CT（Case 1 腹部 CT）**
+
+![Figure 1. Case 1 Abdominal CT](images/Halfdanarson&Shariq_Figure_1-gray.jpg)
+
+> 📎 Abdominal CT (arterial phase) showing an enhancing mass in the head/neck region of the pancreas.
+>
+> 腹部 CT（arterial phase），顯示胰臟 head/neck 區域一顯影腫塊。
+
+**Figure 2. Case 1 Abdominal MRI（Case 1 腹部 MRI）**
+
+![Figure 2. Case 1 Abdominal MRI](images/Halfdanarson&Shariq_Figure_2-gray.jpg)
+
+> 📎 Abdominal MRI (arterial phase) showing an enhancing mass in the head/neck region of the pancreas.
+>
+> 腹部 MRI（arterial phase），顯示胰臟 head/neck 區域一顯影腫塊。
+
+**Figure 3. Case 1 SSTR ( 68 Ga DOTATATE) PET-MRI（Case 1 SSTR PET-MRI）**
+
+![Figure 3. Case 1 SSTR ( 68 Ga DOTATATE) PET-MRI](images/Halfdanarson&Shariq_Figure_3-gray.jpg)
+
+> 📎 SSTR ( 68 Ga DOTATATE) PET-MRI showing an SSTR-avid mass.
+>
+> SSTR（<sup>68</sup>Ga-DOTATATE）PET-MRI，顯示一 SSTR-avid 腫塊。
+
 **Case 2｜35 歲女性、慢性腹瀉與高 gastrin 血症**
 A 35-year-old woman with a strong family history of MEN1 presents with frequent loose stools and occasional diarrhea (up to 4-5 episodes daily) with intermittent heartburn. Fasting serum gastrin is 1120 pg/mL (reference range <100 pg/mL). Upper EUS reveals multiple small pancreatic masses, the largest 11 mm, and SSTR PET-CT confirms at least 3 small pancreatic NETs.
 一名 35 歲女性，具強烈 MEN1 家族史，主訴頻繁稀便與偶發腹瀉（每日達 4-5 次）並間歇性火燒心。空腹血清 gastrin 為 1120 pg/mL（參考範圍 <100 pg/mL）。Upper EUS 顯示多發性小胰臟腫塊，最大 11 mm；SSTR PET-CT 證實至少 3 顆小型 pancreatic NET。臨床表現符合 gastrinoma 引起之 Zollinger-Ellison syndrome (ZES)。
+
+**Figure 4. Case 2 SSTR PET-CT（Case 2 SSTR PET-CT，基準）**
+
+![Figure 4. Case 2 SSTR PET-CT](images/Halfdanarson&Shariq_Figure_4-gray.jpg)
+
+> 📎 SSTR PET-CT showing 2 foci of avidity in the pancreatic body.
+>
+> SSTR PET-CT，顯示胰臟 body 兩處顯影焦點。
 
 ---
 
@@ -177,6 +209,23 @@ In patients not suitable for operative intervention, ablative and radiation ther
 此患者有多發性 pancreatic NETs 併符合 functional gastrinoma 與 ZES 的症狀。其 fasting gastrin 在「gastrinoma range」（>1000 pg/mL），雖 gastrin 與 ZES 症狀相關性不完美。鑑於腹瀉與偶發火燒心，建議開始每日兩次 PPI。使用 omeprazole 40 mg 每日兩次一週後，腹瀉與火燒心完全緩解，支持 ZES 診斷。未處理 ZES 即重複影像不建議（有 gastroduodenal perforation 等併發症風險）。持續 PPI 並於 6-12 個月後重複 cross-sectional imaging 是合理的。無需重複 EUS 取組織，因臨床強烈提示 pancreatic NET。基準時不建議 SSA 治療，因多數 MEN1 相關 pancreatic NETs 極為 indolent。鑑於腫瘤小，此時無手術角色。
 
 **問題二：7 年追蹤後胰尾出現新的 2-cm 腫塊，最佳下一步？ → 答案 D（重複 upper EUS 併胰尾腫塊切片）**
+
+**Figure 5. Case 2 CT of the Abdomen and Pelvis（Case 2 腹部與骨盆 CT）**
+
+![Figure 5. Case 2 CT of the Abdomen and Pelvis](images/Halfdanarson&Shariq_Figure_5-gray.jpg)
+
+> 📎 CT of the abdomen and pelvis showing a pancreatic tail mass.
+>
+> 腹部與骨盆 CT，顯示胰尾（pancreatic tail）腫塊。
+
+**Figure 6. Case 2 SSTR PET-CT（Case 2 SSTR PET-CT，追蹤）**
+
+![Figure 6. Case 2 SSTR PET-CT](images/Halfdanarson&Shariq_Figure_6-gray.jpg)
+
+> 📎 SSTR PET-CT showing an SSTR-avid pancreatic tail mass.
+>
+> SSTR PET-CT，顯示一 SSTR-avid 的胰尾腫塊。
+
 此情境明顯偏離已知 pancreatic NETs 的 indolent 病程，提示更具侵襲性的生物學。Upper EUS 顯示 well-differentiated grade 3 pancreatic NET，Ki-67 index 為 28%。鑑於此腫塊自 12 個月前影像後才出現，僅觀察並不適當。未確認診斷即進行 distal pancreatectomy 不建議——雖非 MEN1 相關診斷，pancreatic adenocarcinoma 可呈類似表現。在無切片確認診斷前，以 SSA 或 radioligand therapy 進行全身治療並不適當。此患者經 staging 後轉介 hepato-pancreato-biliary 外科並接受 distal pancreatectomy，惜後續發生 metastatic recurrence 而需全身治療。此案闡明 MEN1 與 DP-NETs 罕見的 tumor grade progression 風險——多數患者病程極 indolent，但罕見情況會發生 grade transformation 併更具侵襲性的臨床進展，此時幾乎總是需切片確認。
 
 ### 常見陷阱 Pitfalls
@@ -263,12 +312,3 @@ In patients not suitable for operative intervention, ablative and radiation ther
 49. Panzuto F, Ramage J, Pritchard DM, et al. European Neuroendocrine Tumor Society (ENETS) 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. *J Neuroendocrinol*. 2023;35(8):e13306. PMID: 37401795
 50. Yit LFN, Li Y. A review of the evolving role of radiotherapy in the treatment of neuroendocrine neoplasms. *Neuroendocrinology*. 2024;114(9):856-865. PMID: 38432216
 51. Myrehaug S, Hallet J, Chu W, et al. Proof of concept for stereotactic body radiation therapy in the treatment of functional neuroendocrine neoplasms. *J Radiosurg SBRT*. 2020;6(4):321-324. PMID: 32185093
-
----
-
-> 📊 圖 1：Case 1 腹部 CT（arterial phase），顯示胰臟頭/頸部一顯影腫塊（原書圖）。
-> 📊 圖 2：Case 1 腹部 MRI（arterial phase），顯示胰臟頭/頸部一顯影腫塊（原書圖）。
-> 📊 圖 3：Case 1 SSTR（<sup>68</sup>Ga-DOTATATE）PET-MRI，顯示一 SSTR 顯影強烈的腫塊（原書圖）。
-> 📊 圖 4：Case 2 SSTR PET-CT，顯示胰臟體部兩處顯影焦點（原書圖）。
-> 📊 圖 5：Case 2 腹部與骨盆 CT，顯示胰尾腫塊（原書圖）。
-> 📊 圖 6：Case 2 SSTR PET-CT，顯示 SSTR 顯影強烈的胰尾腫塊（原書圖）。

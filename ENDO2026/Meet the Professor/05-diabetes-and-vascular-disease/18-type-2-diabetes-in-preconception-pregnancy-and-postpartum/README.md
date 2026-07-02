@@ -77,6 +77,14 @@
 
 對於育齡的 type 2 diabetes 患者，每次就診皆應納入懷孕意願（pregnancy intent）的篩檢。此外，有 gestational diabetes 病史者應接受孕前糖尿病篩檢。若無懷孕計畫，強烈建議使用有效避孕。首選 long-acting reversible contraception，但選擇應個別化，考量患者偏好、共病（含 obesity 與 hypertension）、可能影響避孕效力的併用治療（如 GLP-1 RAs）及懷孕時程。多數避孕方式的風險低於非計畫性懷孕的風險。
 
+**Box. Key Components of Preconception Care for People With Prediabetes, Diabetes, or a History of Gestational Diabetes（prediabetes、diabetes 或 gestational diabetes 病史者孕前照護之關鍵組成）**
+
+![Box. Key Components of Preconception Care for People With Prediabetes, Diabetes, or a History of Gestational Diabetes](images/boxkey1.jpg)
+
+> 📎 Reprinted from American Diabetes Association Professional Practice Committee for Diabetes. 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes-2026. Diabetes Care , 2026; 49(Supplement 1): S321-S338.
+>
+> 轉載自 American Diabetes Association Professional Practice Committee for Diabetes. 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes-2026. Diabetes Care，2026; 49(Supplement 1): S321-S338。
+
 > Given the direct relationship between early-pregnancy maternal hyperglycemia and congenital malformations, it is recommended to achieve glucose levels as close to normal as safely possible, with a hemoglobin A1c of less than 6.5% (<48 mmol/mol).
 
 鑑於孕早期母體 hyperglycemia 與 congenital malformations 之間的直接關係，建議在安全前提下使血糖盡量接近正常，目標 HbA1c 小於 6.5%（<48 mmol/mol）。
@@ -164,6 +172,14 @@ Folic acid 補充（每日 400-800 mcg）應於受孕前至少 4 週開始，並
 > Metformin crosses the placenta, and although it may reduce insulin requirements, weight gain, and cesarean delivery rates, it has been associated with an increased risk of small-for-gestational-age babies, particularly in the context of maternal hypertension or nephropathy. Our practice is to use metformin cautiously in lower-risk individuals and to avoid it in those with baseline chronic hypertension or nephropathy.
 
 Metformin 會通過胎盤，雖然可能降低 insulin 需求、體重增加與剖腹產率，但與 small-for-gestational-age 嬰兒風險上升相關，尤其在合併母體 hypertension 或 nephropathy 的情況下。本院做法是在較低風險者謹慎使用 metformin，並在具基礎慢性 hypertension 或 nephropathy 者避免使用。對於可能存在明顯胰島素分泌缺陷者（如較低 BMI、糖尿病病程長，或南亞、東亞族裔者），也避免使用 metformin。
+
+**Table. Institute of Medicine Guidelines for Weight Gain During Pregnancy Based on Prepregnancy BMI（依孕前 BMI 之 Institute of Medicine 孕期體重增加建議）**
+
+![Table. Institute of Medicine Guidelines for Weight Gain During Pregnancy Based on Prepregnancy BMI](images/tableinstitute.jpg)
+
+> 📎 Adapted from Institute of Medicine (US) and National Research Council (US) Committee to Reexamine IOM Pregnancy Weight Guidelines. Weight Gain During Pregnancy: Reexamining the Guidelines . Rasmussen KM & Yaktine AL, eds. Washington (DC): National Academies Press (US); 2009.
+>
+> 改編自 Institute of Medicine (US) and National Research Council (US) Committee to Reexamine IOM Pregnancy Weight Guidelines. Weight Gain During Pregnancy: Reexamining the Guidelines. Rasmussen KM & Yaktine AL, eds. Washington (DC): National Academies Press (US); 2009。
 
 ### Preeclampsia 預防與血壓控制 Preeclampsia prophylaxis & BP control
 

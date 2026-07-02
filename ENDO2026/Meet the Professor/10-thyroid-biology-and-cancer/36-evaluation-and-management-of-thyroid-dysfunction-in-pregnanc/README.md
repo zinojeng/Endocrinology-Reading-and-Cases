@@ -128,7 +128,9 @@ Haddow 等人 1999 年的重要研究顯示，妊娠期 hypothyroidism 母親所
 
 第二常見病因為 **Graves disease**，一種由 stimulating TRAb 引起的自體免疫甲狀腺疾病，妊娠期盛行率約 0.2%。嚴重、未治療的 Graves disease 可導致不良妊娠結局，需依嚴重度給予治療。由於 GTT 與 Graves disease 對妊娠結局影響不同且治療方式各異，兩者的鑑別十分重要。
 
-> 📊 表：GTT 與 Graves disease 在妊娠期的鑑別特徵（原書 Table，圖檔無法解析）。臨床鑑別要點整理如下表。
+**Table. Characteristics of GTT and Graves Disease in Pregnancy**（表．妊娠期 GTT 與 Graves disease 的特徵）
+
+![Table. Characteristics of GTT and Graves Disease in Pregnancy](images/tablechar.jpg)
 
 | 特徵 Feature | GTT | Graves disease |
 |---|---|---|

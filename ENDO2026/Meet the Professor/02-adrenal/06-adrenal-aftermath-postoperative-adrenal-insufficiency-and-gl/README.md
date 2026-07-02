@@ -92,7 +92,9 @@ GWS 是根治性手術後 cortisol 暴露快速下降所引發的一系列症狀
 
 臨床表現為 fatigue、myalgias、arthralgias 與情緒症狀，與 adrenal insufficiency 極為相似，最終導致生活品質下降。緩解後最初數週常見 myalgias、arthralgias、fatigue、weakness、sleep disturbance、headaches 與情緒改變；部分症狀（尤其疼痛與疲勞）在恢復後期反而更為突出。<sup>24</sup> 除軀體症狀外，sleep disruption、affective lability、depressive syndromes 等精神表現可導致失能。<sup>25</sup>
 
-> 📊 表：GWS 與內源性 hypercortisolism 根治性手術後 adrenal insufficiency 的主要差異對照表（原書 Table，原始圖檔無法解析）。原文指出兩者臨床上難以區分，惟某些特徵可傾向其中一種診斷；判讀時須結合 cortisol 數值、症狀時序與對劑量調整的反應綜合研判。<sup>8,24</sup>
+**Table. Main Differences Between GWS and Adrenal Insufficiency After Curative Surgery for Endogenous Hypercortisolism**（GWS 與內源性 hypercortisolism 根治性手術後 adrenal insufficiency 的主要差異對照表）
+
+![Table. Main Differences Between GWS and Adrenal Insufficiency After Curative Surgery for Endogenous Hypercortisolism](images/tablemain.jpg)
 
 **處置原則：**
 

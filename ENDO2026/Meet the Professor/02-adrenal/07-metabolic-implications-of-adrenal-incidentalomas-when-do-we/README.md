@@ -59,7 +59,9 @@ MACS 與心血管代謝相關的病態率與死亡率顯著上升有關，且死
 - Does imaging evaluation suggest the lesion is benign or malignant? — 影像評估提示良性或惡性？
 - Is the lesion hormonally active? — 病灶是否具荷爾蒙活性？
 
-> 📊 圖：腎上腺偶發瘤之鑑別診斷（單側與雙側之鑑別範圍皆廣）（原書 Box 圖）
+**Box. Differential Diagnosis of Adrenal Incidentalomas**（腎上腺偶發瘤之鑑別診斷）
+
+![Box. Differential Diagnosis of Adrenal Incidentalomas](images/boxdiff.jpg)
 
 ### 影像評估 Imaging Evaluation
 

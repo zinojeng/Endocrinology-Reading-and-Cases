@@ -131,7 +131,13 @@ The diagnosis of lipedema is clinical, based on a thorough patient history, char
 - Type IV：上肢（arms）
 - Type V：小腿（calves）
 
-> 📊 圖：Lipedema 依脂肪堆積進展及皮膚與淋巴系統變化之分期（Stage 1、2、3、4）（原書圖，改編自 Lipedema Foundation, lipedema.org）
+**Figure. Stages of Lipedema According to Progression of Fat Accumulation and Changes to Skin and Lymphatic System（圖：Lipedema 依脂肪堆積進展與皮膚及淋巴系統變化之分期）**
+
+![Figure. Stages of Lipedema According to Progression of Fat Accumulation and Changes to Skin and Lymphatic System](images/Aleman-Diaz_Figure-gray.jpg)
+
+> 📎 Adapted from the Lipedema Foundation, lipedema.org
+>
+> 改編自 Lipedema Foundation, lipedema.org
 
 ---
 
