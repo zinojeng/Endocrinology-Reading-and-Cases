@@ -100,11 +100,7 @@ Hypothalamus 發育異常，加上 insulin 受體減少、MC4R pathway 與 serot
   - **Phase 2b**：對食物興趣與意識增加、體重持續過度增加。
   - **Phase 3**：出現對食物的持續執念與覓食／偷藏食物行為。
 - **共病評估**：於考慮藥物治療前，須評估體重軌跡、HbA1c／血糖狀態、obstructive sleep apnea (OSA)、pulmonary hypertension／right heart failure、血壓與血脂。
-- **基因診斷（genetic workup）**：對於病因未明的 hypothalamic obesity 與 hyperphagia（尤其自嬰幼兒即嚴重、極端者），應進行完整基因檢測以找出可治療的單基因病因（如 *LEPR*、*POMC* 等 MC4R pathway 相關變異），因為診斷可直接開啟 setmelanotide 等標靶治療。<sup>18,19</sup>
-
-**Figure 4. Patient's Genetic Test Results Reporting a Pathogenic Variant in the LEPR Gene**（Figure 4. 病人基因檢測報告顯示 *LEPR* 基因的致病性變異）
-
-![Figure 4. Patient's Genetic Test Results Reporting a Pathogenic Variant in the LEPR Gene](images/Miller_Figure4.jpg)
+- **基因診斷（genetic workup）**：對於病因未明的 hypothalamic obesity 與 hyperphagia（尤其自嬰幼兒即嚴重、極端者），應進行完整基因檢測以找出可治療的單基因病因（如 *LEPR*、*POMC* 等 MC4R pathway 相關變異），因為診斷可直接開啟 setmelanotide 等標靶治療（Case 3 病人之 LEPR 基因檢測結果見下方個案解析 Case 3）。<sup>18,19</sup>
 
 ---
 
@@ -186,6 +182,10 @@ Hypothalamus 發育異常，加上 insulin 受體減少、MC4R pathway 與 serot
 **最佳下一步 → 答案 D：進行完整基因檢查**以釐清 panhypopituitarism 與 hypothalamic obesity 的病因。
 
 **推理**：此病人於一項診斷 hyperphagia／obesity 遺傳病因的計畫中接受基因評估，發現 *LEPR* 基因的致病性變異，遂啟動 setmelanotide——後者經 FDA 核准治療此狀況並顯示長期成功的體重控制。<sup>20,21</sup>
+
+**Figure 4. Patient's Genetic Test Results Reporting a Pathogenic Variant in the LEPR Gene**（Figure 4. 本 Case 3 病人基因檢測報告顯示 *LEPR* 基因的致病性變異）
+
+![Figure 4. Patient's Genetic Test Results Reporting a Pathogenic Variant in the LEPR Gene](images/Miller_Figure4.jpg)
 
 **教學要點／陷阱**：
 - **陷阱**：對嚴重、早發、非典型的 hypothalamic obesity 直接轉介 bariatric surgery（答案 E）或僅處理憂鬱／OSA／荷爾蒙劑量微調，而錯過可用標靶藥物（setmelanotide）治療的單基因病因。
