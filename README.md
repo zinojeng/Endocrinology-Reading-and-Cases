@@ -20,10 +20,12 @@ Williams Textbook of Endocrinology 章節，由原始 PDF 經 **LlamaParse** 解
 
 | 章 | 主題 | 連結 |
 |----|------|------|
+| Ch.13 | The Adrenal Cortex（Addison's、Cushing、PA、Incidentaloma/ACC、CAH） | [Ch13](Williams-Textbook/Ch13-The-Adrenal-Cortex/) |
 | Ch.36 | Digitized Approaches to Diabetes（CGM、TIR/TBR/TAR、AGP、insulin pump、AID） | [Ch36](Williams-Textbook/Ch36-Digitized-Approaches-to-Diabetes/) |
 | Ch.42 | Endocrine Neoplasia Syndromes（MEN1–5、MEON） | [Ch42](Williams-Textbook/Ch42-Endocrine-Neoplasia-Syndromes/) |
 | Ch.43 | Neuroendocrine Tumors and Disorders（NEN/NET/NEC） | [Ch43](Williams-Textbook/Ch43-Neuroendocrine-Tumors-and-Disorders/) |
 | Ch.44 | The Immunoendocrinopathy Syndromes（APS-I/II、IPEX…） | [Ch44](Williams-Textbook/Ch44-Immunoendocrinopathy-Syndromes/) |
+| Ch.48 | Endocrine Disorders of Critical Illness（Somatotropic axis、NTIS、CIRCI、ICU Glycemic Control、Vitamin D） | [Ch48](Williams-Textbook/Ch48-Endocrine-Disorders-of-Critical-Illness/) |
 
 ## 🏕️ FellowCamp
 
