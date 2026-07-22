@@ -12,6 +12,8 @@
   - **Type 1 Deiodinase (D1) 活性下降**：肝臟與腎臟中 D1 減少，致使 T4 轉化為活性 T3 的外圍路徑受阻。
   - **Type 3 Deiodinase (D3) 活性上升**：發炎因子（IL-6, TNF-α, IL-1β）及缺氧誘導 D3 在血管內皮與組織中高表達，將 T4 轉化為無活性 **rT3**，並將 T3 降解為 **T2**。
   - 結論：`<u>T3 下降、rT3 升高、T3:rT3 比值顯著降低</u>`。
+- **延長重症期變化**：
+  - 下視丘促甲狀腺素釋放激素（TRH）基因表達受到**中央抑制（Central TRH Hyposecretion）**，導致脈衝式 TSH 分泌消失，`<u>T3 與 T4 均進一步低下，TSH 偏低或正常</u>`。
 
 > 📌 **重點 (High-Yield)**：
 > - NTIS 最經典的生化標記：`<u>Total T3 & Free T3 下降</u>` + `<u>rT3 升高</u>`。
@@ -37,7 +39,7 @@
    - 重症患者若 TSH `<u>>20 mU/L</u>`，應高度懷疑合併真實的原發性甲狀腺功能低下（Primary Hypothyroidism）。
 2. **臨床意義與處置走向 (Clinical Significance & Action Rules)**：
    - 重症患者常規檢測 TSH/T3/T4 容易引發錯誤解讀，除非臨床高度懷疑甲狀腺疾病，否則**不建議在 ICU 常規篩檢甲狀腺功能**。
-   - 隨機對照試驗（RCTs）顯示，在急性期給予 T3 或 T4 補充並不能改善重症存活率，甚至可能增加心律不整與代謝負擔。
+   - 隨機對照試驗（RCTs）顯示，在急性期給予 T3 或 T4 補充並不能改善重症存活率（No benefit of acute T3/T4 replacement），甚至可能增加心律不整與代謝負擔。
 3. **生理與病理機轉 (Pathophysiological Mechanisms)**：
    - 急性 NTIS 被視為體內在嚴重疾病或禁食狀態下的**適應性代謝減緩（adaptive response）**，可減少組織氧耗與蛋白質分解。
 4. **易混淆點與考題避坑 (Exam Traps & Pitfalls)**：

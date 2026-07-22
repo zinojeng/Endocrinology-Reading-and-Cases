@@ -32,8 +32,8 @@
 ### 📊 表格解讀
 
 1. **正常值與臨界值 (Normal / Abnormal Ranges & Cutoffs)**：
-   - 傳統定義基線 Cortisol `<u><10 μg/dL</u>` 或 Cosyntropin 刺激後 Cortisol 增加值（ΔCortisol）`<u><9 μg/dL</u>` 提示 adrenal insufficiency。但在重症患者中此標準高度不可靠。
-   - 敗血性休克 Hydrocortisone 給藥標準劑量：`<u>200 mg/day</u>`（連續靜脈輸注或 50 mg q6h）。
+   - 傳統定義基線 Cortisol `<u><10 μg/dL</u>` 或 Cosyntropin 刺激後 Cortisol 增加值（ΔCortisol）`<u><9 μg/dL</u>` 提示 adrenal insufficiency。但在重症患者中此標準高度不可靠（Cosyntropin test non-recommendation）。
+   - 敗血性休克 Hydrocortisone 給藥標準劑量：`<u>200 mg/day</u>`（靜脈連續輸注或 50 mg q6h）。
 2. **臨床意義與處置走向 (Clinical Significance & Action Rules)**：
    - 若敗血性休克患者在升壓藥（Norepinephrine/Vasopressin）逐漸減量或血壓穩定後，應漸進停用 Hydrocortisone，通常療程 `<u>5–7 天</u>`，無需過長使用。
    - 不建議併用高劑量 Dexamethasone，因其強烈抑制 HPA 軸且無鹽皮質素活性。
