@@ -1,0 +1,16 @@
+# macOS junk files
+Icon?
+Icon$'\r'
+.DS_Store
+._*
+.Trashes
+
+# OS & Editor temp files
+Thumbs.db
+*.swp
+*.tmp
+
+# Python artifacts
+.venv/
+__pycache__/
+*.pyc
