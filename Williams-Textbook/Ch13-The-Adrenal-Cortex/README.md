@@ -23,6 +23,7 @@
 | 04 | [Primary Aldosteronism](04-Primary-Aldosteronism-Screening-and-Subtyping.md) | 原發性醛固酮過多症：篩檢與分型 | ARR 切點（`<u>>20–30</u>`）、Saline Infusion 測試、AVS 側化比值 `<u>>4:1</u>` |
 | 05 | [Adrenal Incidentaloma & ACC](05-Adrenal-Incidentaloma-and-Adrenocortical-Carcinoma.md) | 腎上腺偶發瘤與皮質癌 | CT 衰減度切點（`<u><10 HU</u>`）、1-mg DST 亞臨床庫欣、Weiss 評分與 ACC 處置 |
 | 06 | [Congenital Adrenal Hyperplasia](06-Congenital-Adrenal-Hyperplasia.md) | 先天性腎上腺增生症（CAH） | 21-OHD (CYP21A2) 三大型態、17-OHP 篩檢切點、各類酵素缺損比較表 |
+| 07 | [Case Study: ICI Secondary AI](Case-Study-ICI-Secondary-Adrenal-Insufficiency.md) | 臨床真實案例：免疫檢查點抑制劑 (ICI) 引發次發性腎上腺皮質不全 | Cortisol <1.0 + ACTH 6.3 判讀、Keytruda 孤立性 ACTH 缺損、Dex 10mg 藥理與檢測干擾分析 |
 
 ---
 
